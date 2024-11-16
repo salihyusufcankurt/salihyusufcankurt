@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Yusuf</h1>
-<h3 align="center"></h3>
-
 - 📫 How to reach me **salihyusufcankurt@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
